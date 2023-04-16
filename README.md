@@ -3,4 +3,4 @@
 
 **Need to download [mhypbase](https://github.com/Jx2f/mhypbase) patch (expired)**
 
-*Only supports up to 3.5*
+*Only supports up to 3.5Ver*
